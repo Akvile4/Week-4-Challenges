@@ -9,24 +9,6 @@
 // console.log(number)
 // console.log(multiply(123))
 
-// let pinNumber = 1234
-
-// const pinCode = (rightNumber, pinGuess) => {
-//     if (rightNumber === pinGuess) {
-//         console.log("Your pin is right!")
-//         return true
-//     }
-//     else {
-//         console.log("Your pin number is wrong try again!")
-//     }
-// }
-
-// const takeMoney = (pin, amount, balance) => {
-//     if (pinCode())
-
-// }
-
-// pinCode(pinNumber, 1234)
 
 
 // let whichGreeting = (timeOfDay) => {
